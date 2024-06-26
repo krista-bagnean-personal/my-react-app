@@ -1,0 +1,7 @@
+{
+    "name": "com.sample.androidapp",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+}
